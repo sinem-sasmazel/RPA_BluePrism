@@ -6,4 +6,4 @@ Blue Prism is very popular environment for developing RPA programs.
 You can get more information about RPA and the Blue Prism development environment.
 - https://www.blueprism.com/
 - https://en.wikipedia.org/wiki/Robotic_process_automation
-![MainFrame] (<iframe width="560" height="315" src="https://www.youtube.com/embed/gQ6v1pIcUJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+![MainFrame]<iframe width="560" height="315" src="https://www.youtube.com/embed/gQ6v1pIcUJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
