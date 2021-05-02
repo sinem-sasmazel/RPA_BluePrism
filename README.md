@@ -7,5 +7,3 @@ You can get more information about RPA and the Blue Prism development environmen
 - https://www.blueprism.com/
 - https://en.wikipedia.org/wiki/Robotic_process_automation
 
-
-[![Watch the video](https://img.youtube.com/vi/gQ6v1pIcUJ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=gQ6v1pIcUJ8)
